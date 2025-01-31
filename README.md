@@ -22,7 +22,7 @@ The iDCNNPred project aims to develop an interpretable deep learning model for i
 ## Published: 
 Jaiswal, R., Bhati, G., Ahmed, S., & Siddiqi, M. I. (2024). iDCNNPred: an interpretable deep learning model for virtual screening and identification of PI3Ka inhibitors against triple-negative breast cancer. Molecular Diversity. Published: 08 December 2024.
 
-## PhD second project work:
+<!-- ## PhD second project work:
 As part of my PhD second project work, I developed advanced graph neural network (GNN) models to screen potential hit molecules against the AKT target in Triple-Negative Breast Cancer (TNBC) disease. This project involved building with different split-types and different attentive and non-attentive GNN classification models to identify molecules with better binding affinity and biological activity. Through this research, we successfully identified few novel potent molecules that show promising results in biological assays.
 
 #### Key Contributions:
@@ -31,7 +31,19 @@ As part of my PhD second project work, I developed advanced graph neural network
 - **Novel Molecule Discovery**: Identified few novel molecules with superior binding affinity and biological activity against the AKT target.
 - **Biological Validation**: Conducted biological assays to validate the efficacy of the identified molecules.
 
-## Unpublished from that project work
+**Note**: This project is currently unpublished.
+
+## PhD third project work:
+
+In my PhD third project, I developed advanced graph neural network (GNN) models to screen a chemical library and identify potential hit molecules targeting p70S6K in Triple-Negative Breast Cancer (TNBC). This project involved creating various split-types and both attentive and non-attentive GNN classification models to pinpoint molecules with enhanced binding affinity and biological activity. Through this research, we successfully identified several novel p70S6K inhibitors that demonstrated promising results in biological assays.
+
+#### Key Contributions:
+- **Graph Neural Networks (GNNs)**: Leveraged GNNs to effectively represent molecular structures.
+- **Attentive and Non-Attentive Models**: Constructed and compared attentive and non-attentive GNN models to assess their respective strengths and weaknesses.
+- **Novel Molecule Discovery**: Identified several novel molecules with superior binding affinity and biological activity against the p70S6K target.
+- **Biological Validation**: Performed biological assays to validate the efficacy of the identified molecules. -->
+<!-- 
+**Note**: This project is currently unpublished. -->
 
 ## Skills and Technologies
 
@@ -49,8 +61,7 @@ As part of my PhD second project work, I developed advanced graph neural network
 
 ## Thanks for Visiting!
 
-Feel free to reach out if you have any questions or just want to chat!
-
+Feel free to reach out if you have any questions or want to collaboration!
 
 
 
